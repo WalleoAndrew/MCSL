@@ -36,7 +36,7 @@ public class TestTab {
 
 
                 output.accept(TestItem.TEST_ITEM.get());//get到新添加的物品
-                output.accept(SLDoor.LCZ_DOOR_ITEM_1.get());//清收小门
+                output.accept(SLDoor.LCZ_DOOR1_ITEM.get());//清收小门
 
             })
             .build());
